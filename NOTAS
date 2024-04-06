@@ -1,0 +1,30 @@
+
+
+
+
+###Al lanzar la peticion POST de register no me devuelve el objeto, me da como resultado UNDEFINED.GET USERS ME PASA LO MISMO UNDEFINED
+
+
+
+-appointmentController estructura básica DONE. OK
+-serviceController funciona OK    OK
+-authController este lo hicimos.    OK
+
+-login/register este lo hicimos.    OK
+-token este lo hicimos              OK
+-comprobaciones                     OK
+-middlewares este lo hicimos.       OK
+-seeders FALTA
+
+
+
+-rama nueva TESTING OK.
+-.env añadido a gitignore OK.
+-En thundeclient crear colecciones para mayor orden (FALTA)
+
+README añadir los enpoints (obligatorio) (endpoints) ruta register x ejemplo pasar body del thunderclient para mas rapidez. añadir si es para admin o superadmin.
+
+ERROR HTPP 500 SIN SOLUCIONAR.  OK
+MERGE. 
+
+LAS MIGRACIONES!!!!!
